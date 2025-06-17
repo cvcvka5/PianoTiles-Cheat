@@ -2,8 +2,6 @@ import streamlit as st
 from version import VERSION
 from utils.pianotiles import select_game_border_points, get_frame, start_cheat, marked_spots
 import dxcam
-import atexit
-import time
 
 
 st.session_state.setdefault("game_border_xys", None)
