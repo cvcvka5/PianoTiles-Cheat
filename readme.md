@@ -9,4 +9,5 @@ Just a little quick fun project with a GUI made with Streamlit.
 2. cd ./PianoTiles-Cheat
 3. pip install requirements.txt
 4. streamlit run ./main.py
+---
 ![Usage demo](media/usage.gif)
